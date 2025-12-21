@@ -37,6 +37,14 @@ Kill Animations:
 
 All of these methods work to make using your phone less satisfying to keep you off of it more. 
 
+#### Block the App Store
+- Blocking the app store will make it easier to be off your phone and prevent you from downloading apps that would otherwise distract you
+- Settings -> Screen Time -> Content & Privacy Restrictions ->
+  - Content & Privacy Restrictions On
+  - iTunes & App Store Purchases->
+    - Installing Apps -> Don't Allow
+    - In-app Purchases -> Don't Allow
+
 #### Reduce Notifications
 
 
