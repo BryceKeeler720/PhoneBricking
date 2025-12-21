@@ -10,10 +10,11 @@ The majority of resources comes from my own experiences, academic research, and 
 2. [Nathan Laundry](https://www.youtube.com/@nathanlaundry) - content creator focused on attention economy research and self hosting
 
 ### What is Decluttering / Phone Bricking
-
+- Decluttering is the act of removing distractions from your phone in an attempt to escape the attention economy
 
 ### Why Declutter?
-
+- Increase in phone use increases stress, anxiety, and can kill sleep all while decreasing your productivity
+  - [Columbia Research](https://www.columbiapsychiatry.org/research/research-areas/child-and-adolescent-psychiatry/sultan-lab-mental-health-informatics/research-areas/smartphones-social-media-and-their-impact-mental-health)
 
 ### Methods for Decluttering
 - Note: This list assumes that you don't need your phone on you at all times
@@ -113,6 +114,12 @@ All of these methods work to make using your phone less satisfying to keep you o
 #### Self Hosting
 - My personal favorite way of being off my phone, self-hosting!
 - Entertainment apps are inherently engineered in a way to keep you on them, because that's how companies make money. Creating your own way to host entertainment with open source applications like jellyfin are the perfect way to combat this.
-- Projects like this are also a good way to keep you off your phone because they can take quite a bit of time. 
+- Projects like this are also a good way to keep you off your phone because they can take quite a bit of time.
+- Below are screenshots of the scriptable apps included:
+  - Habit Tracker
+    
+![IMG_5663](https://github.com/user-attachments/assets/a0d0a644-c091-44e8-b47a-abec2b9191ad)
 
-### Conclusion
+  - Macro Tracker
+    
+![IMG_5664](https://github.com/user-attachments/assets/4e9bf1ad-0cd6-40f8-bb1c-2631215d3fcc)
