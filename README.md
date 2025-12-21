@@ -117,7 +117,6 @@ All of these methods work to make using your phone less satisfying to keep you o
 - Projects like this are also a good way to keep you off your phone because they can take quite a bit of time.
 - Below are screenshots of the scriptable apps included:
   - Habit Tracker
-    <img src="!https://github.com/user-attachments/assets/a0d0a644-c091-44e8-b47a-abec2b9191ad" alt="Alt text" width="500" height="300">
 
 ![IMG_5663](https://github.com/user-attachments/assets/a0d0a644-c091-44e8-b47a-abec2b9191ad)
 
