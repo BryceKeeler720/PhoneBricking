@@ -13,19 +13,32 @@ The majority of resources comes from my own experiences, academic research, and 
 ### Why Declutter?
 
 
-
-### Assumptions
-
 ### Methods for Decluttering
-- I will do my best here to rank these in order of efficacy for me however, I believe that doing all will be what's best for the average person
 
-#### Grayscale
-To turn your phone grayscale:
-- Settings -> Accessibility -> Display & Text Size -> Color Filters -> Color Filters On -> Grayscale
+#### Screen
+
+Grayscale:
+- To turn your phone grayscale:
+  - Settings -> Accessibility -> Display & Text Size -> Color Filters -> Color Filters On -> Grayscale
 
 Grayscale works so well because you will not get dopamine from your phone. [Holte et al., 2020,2021](https://www.tandfonline.com/doi/full/10.1080/03623319.2020.1737461) found when college students used grayscale, screen time dropped by ~40 minutes a day. They found "Bright colors are gratifying to smartphone users, resulting in more time being spent on smartphones."
 
+If on a higher end iPhone or Android:
+- Change from 120hz to 60hz
+- Turn off Always-on Display
+
+Kill Animations: 
+- Turns off the smooth animations that make it satisfying to use your phone
+- Settings -> Accessibility -> Motion -> Reduce Motion = On
+
+'Flatter' Text:
+- Makes the phone keyboard and other parts of the phone look worse
+- Settings -> Accessibility -> Display & Text Size -> Reduce Transparency
+
+All of these methods work to make using your phone less satisfying to keep you off of it more. 
+
 #### Reduce Notifications
+
 
 #### Keep Your Phone Away While Sleeping
 
@@ -38,6 +51,14 @@ Grayscale works so well because you will not get dopamine from your phone. [Holt
 #### Leave Your Phone at Home When You Can
 
 #### Hide Social Media Apps
+
+#### Learning to be bored / Meditation
+
+#### Analog Options
+
+#### Brick Phones
+
+#### Self Hosting
 
 #### 
 
