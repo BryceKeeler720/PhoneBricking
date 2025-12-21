@@ -4,13 +4,15 @@ The definitve guide to bricking your phone and lowering screen time for producti
 I will try to update this repo as often as I can as new information comes out
 
 The majority of resources comes from my own experiences, academic research, and the resources below:
-1. [Healthy Screens](https://www.healthyscreens.com/) which is the largest global study on smartphone addiction.
-2. [Nathan Laundry](https://www.youtube.com/@nathanlaundry) is a content creator that primarily focuses on the attention economy and how to escape through decluttering.
+1. [Healthy Screens](https://www.healthyscreens.com/)
+2. [Nathan Laundry](https://www.youtube.com/@nathanlaundry)
 
 ### What is Decluttering / Phone Bricking
 
 
 ### Why Declutter?
+
+
 
 ### Assumptions
 
